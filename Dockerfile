@@ -1,5 +1,5 @@
-## -*- docker-image-name: "armbuild/scw-service-rescue:trusty" -*-
-FROM armbuild/scw-distrib-ubuntu:trusty
+## -*- docker-image-name: "armbuild/scw-service-rescue:latest" -*-
+FROM armbuild/scw-distrib-ubuntu:vivid
 MAINTAINER Scaleway <opensource@scaleway.com> (@scaleway)
 
 
