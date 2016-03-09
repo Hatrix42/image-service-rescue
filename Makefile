@@ -1,9 +1,8 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-service-rescue
+NAME =			rescue
 VERSION =		latest
-VERSION_ALIASES =	14.04 trusty
+VERSION_ALIASES =
 TITLE =			Rescue
-DESCRIPTION =		Rescue
+DESCRIPTION =		Rescue image
 SOURCE_URL =		https://github.com/scaleway/image-service-rescue
 DEFAULT_IMAGE_ARCH =	x86_64
 
