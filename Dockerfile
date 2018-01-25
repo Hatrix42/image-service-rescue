@@ -33,6 +33,7 @@ RUN apt-get -q update      \
     socat                  \
     tcpdump                \
     traceroute             \
+    mtr-tiny               \
   && apt-get clean
 
 
